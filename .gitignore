@@ -1,0 +1,4 @@
+# Ignore all files except .md and .ps1
+*
+!*.md
+!*.ps1
